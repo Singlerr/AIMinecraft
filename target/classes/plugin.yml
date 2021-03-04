@@ -1,0 +1,5 @@
+name: AIMinecraft
+version: 1.0
+main: io.github.singlerr.Main
+commands:
+  ai:

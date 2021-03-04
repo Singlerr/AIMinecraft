@@ -1,0 +1,8 @@
+io\github\singlerr\GameTask.class
+io\github\singlerr\network\Brain.class
+io\github\singlerr\GameHandler.class
+io\github\singlerr\util\EntityUtil.class
+io\github\singlerr\Main.class
+io\github\singlerr\network\FakePlayer.class
+io\github\singlerr\listener\NPCListener.class
+io\github\singlerr\network\Brain$Action.class
